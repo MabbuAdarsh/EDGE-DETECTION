@@ -61,19 +61,16 @@ plt.axis('off')
 
 ## Output:
 ### Original:
-![image](https://github.com/user-attachments/assets/e641dfc8-844a-4bf4-8b78-3b68273b3e10)
+![432611313-e641dfc8-844a-4bf4-8b78-3b68273b3e10](https://github.com/user-attachments/assets/f3bb197f-063c-4f17-9431-2cf33e9c6505)
 
 ### SOBEL EDGE DETECTOR
-![image](https://github.com/user-attachments/assets/97943629-bf83-45e8-893a-c9746f6e2166)
+![432611446-97943629-bf83-45e8-893a-c9746f6e2166](https://github.com/user-attachments/assets/edd11151-b92e-4886-a302-e3d0c1784e4b)
 
 ### LAPLACIAN EDGE DETECTOR
-![image](https://github.com/user-attachments/assets/e2d0f3d1-cb0b-408b-8aed-b7d716455083)
-
+![432612798-e2d0f3d1-cb0b-408b-8aed-b7d716455083](https://github.com/user-attachments/assets/3111d389-c1f5-4b14-9cdd-21b9ad348c31)
 
 ### CANNY EDGE DETECTOR
-![Screenshot 2025-04-11 052920](https://github.com/user-attachments/assets/746f27a7-75ab-4114-b93b-c6242492f713)
-
-
+![432614026-746f27a7-75ab-4114-b93b-c6242492f713](https://github.com/user-attachments/assets/8ce50b0a-7e91-425c-9eec-164573ebf301)
 
 ## Result:
 Thus the edges are detected using Sobel, Laplacian, and Canny edge detectors.
